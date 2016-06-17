@@ -170,17 +170,18 @@ Mix of UI elements and other reusable nice to haves
 
 * React
 * Redux <!-- .element: class="fragment" -->
+* redux-saga <!-- .element: class="fragment" -->
 * React Router & Redux Router <!-- .element: class="fragment" -->
-* Webpack <!-- .element: class="fragment" -->
-    * json-loader
-	* less-loader
 * ImmutableJS <!-- .element: class="fragment" -->
 
 
-* `npm` as a build runner
+* Webpack
+    * json-loader
+    * less-loader
+* `npm` as a build runner <!-- .element: class="fragment" -->
 * Express (mocked REST endpoints) <!-- .element: class="fragment" -->
     * webpack-hot-middleware
-	* redbox-react
+    * redbox-react
 
 ![Redbox](img/redbox.png) <!-- .element: class="fragment" -->
 
