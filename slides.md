@@ -33,7 +33,7 @@
 
 ## Digitalbank
 
-* ~100 employees
+* ~100 employees & consultants
 * ~50 developers <!-- .element: class="fragment" -->
 * ~25 apps <!-- .element: class="fragment" -->
 * ~6-7 teams <!-- .element: class="fragment" -->
