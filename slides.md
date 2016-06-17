@@ -148,7 +148,7 @@ Mix of UI elements and other reusable nice to haves
 
 ## Kredittkort (KK)
 
-* Shared protypes
+* Shared proptypes
 * i18n texts
 * Forms & other application specific UI elements
 
@@ -179,7 +179,8 @@ Mix of UI elements and other reusable nice to haves
 * Webpack
     * json-loader
     * less-loader
-* `npm` as a build runner <!-- .element: class="fragment" -->
+    * file-loader (fonts)
+* npm as a build runner <!-- .element: class="fragment" -->
 * Express (mocked REST endpoints) <!-- .element: class="fragment" -->
     * webpack-hot-middleware
     * redbox-react
@@ -188,6 +189,26 @@ Mix of UI elements and other reusable nice to haves
 
 https://github.com/hedlund/starter-webpack-react <!-- .element: class="fragment" -->
 
+
+## App structure
+
+```
+/actions                            -- app level actions
+/components                         -- shared components
+/features
+         /transactions
+                      /components   -- feature components
+                      /actions.js   -- feature actions
+                      /index.js     -- redux mapping
+                      /texts.js     -- feature i18n
+         /statements
+         /settings
+/reducers
+/sagas
+/store
+/styles                             -- app level styles
+/index.jsx                          -- app start, router definition
+```
 
 
 ## Forms & validation
