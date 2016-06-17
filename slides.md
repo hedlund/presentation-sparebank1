@@ -15,7 +15,7 @@
 * 199x: First version bought of the shelf <!-- .element: class="fragment" -->
 * 2004: Various iterations of a monolith <!-- .element: class="fragment" -->
     * JSP, JSF, Struts, ...
-* 2012: Breaking the monolith <!-- .element: class="fragment" -->
+* 2013: Breaking the monolith <!-- .element: class="fragment" -->
     * Microservices & individual apps 
 
 
@@ -24,18 +24,19 @@
 
 #### Inspired by Spotify
 
-* Tribes: Nettbank & Forsikkring <!-- .element: class="fragment" -->
-* Guilds: Front-end, UX, UI, ... <!-- .element: class="fragment" -->
+* Tribes: Digitalbank & Forsikring <!-- .element: class="fragment" -->
+* Guilds: Front-end forum, UX forum, UI forum, ... <!-- .element: class="fragment" -->
+* Chapters: Architecture, development, security, mobile, team lead... <!-- .element: class="fragment" -->
 * Squads: the dev teams <!-- .element: class="fragment" -->
 
 
 
-## Nettbank
+## Digitalbank
 
 * ~100 employees
 * ~50 developers <!-- .element: class="fragment" -->
 * ~25 apps <!-- .element: class="fragment" -->
-* ~8 teams <!-- .element: class="fragment" -->
+* ~6-7 teams <!-- .element: class="fragment" -->
 
 
 
