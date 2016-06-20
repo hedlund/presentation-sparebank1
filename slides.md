@@ -34,9 +34,9 @@
 ## Digitalbank
 
 * ~100 employees & consultants
-* ~50 developers <!-- .element: class="fragment" -->
-* ~25 apps <!-- .element: class="fragment" -->
-* ~6-7 teams <!-- .element: class="fragment" -->
+* ~50 developers
+* ~25 apps
+* ~6-7 teams
 
 
 
@@ -249,6 +249,8 @@ const mapStateToProps = state => (
 * Fitnesse <!-- .element: class="fragment" -->
 
 
+#### Mocha, Chai, Enzyme & Sinon
+
 ```javascript
 import React from 'react';
 import { shallow } from 'enzyme';
@@ -268,6 +270,8 @@ describe('<MyComponent />', () => {
 });
 ```
 
+
+#### Istanbul
 
 ![Istanbul](img/istanbul.png)
 
